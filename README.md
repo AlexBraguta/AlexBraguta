@@ -29,9 +29,6 @@
 </table>
 
 
-            <img src="" />
-          
-
 <!-- Add more icons similarly -->
 
 <!--
