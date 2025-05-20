@@ -15,6 +15,7 @@
   <tr>
     <td><a href="https://www.docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="70"/></a></td>
     <td><a href="https://streamlit.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="70"/></a></td>
+    <td><a href="https://pandas.pydata.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="70"/></a></td>
     <td><a href="https://www.anaconda.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="70"/></a></td>
     <td><a href="https://scikit-learn.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="70"/></a></td>
     <td><a href="https://www.java.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="70"/></a></td>
@@ -27,6 +28,8 @@
 </table>
 
 
+            <img src="" />
+          
 
 <!-- Add more icons similarly -->
 
