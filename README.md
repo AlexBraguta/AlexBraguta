@@ -30,7 +30,7 @@
 
 [![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBraguta&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<a align="center"><img src="https://github.com/AlexBraguta/AlexBraguta/blob/main/languages.png"></a>
+<a align="center"><img src="https://github.com/AlexBraguta/AlexBraguta/blob/main/languages.png" width="500"></a>
 
 
 <!-- Add more icons similarly -->
