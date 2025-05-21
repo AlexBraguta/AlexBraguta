@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/AlexBraguta/AlexBraguta/blob/main/languages.png"></p>
 
-# i work with
+## i work with
 <table>
   <tr>
     <td><a href="https://archlinux.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="70"/></a></td>
@@ -15,8 +15,6 @@
     <td><a href="https://scikit-learn.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="70"/></a></td>
   </tr>
 </table>
-
----
 
 ## my setup
 
