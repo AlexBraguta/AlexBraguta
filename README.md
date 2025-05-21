@@ -33,21 +33,28 @@
 
 ---
 
+### i like
+
+<img src="https://img.shields.io/badge/Todoist-E44332.svg?style=for-the-badge&logo=Todoist&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Goodreads-372213.svg?style=for-the-badge&logo=Goodreads&logoColor=white" height="30"> <img src="https://img.shields.io/badge/JetBrains-000000.svg?style=for-the-badge&logo=JetBrains&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Sublime%20Text-FF9800.svg?style=for-the-badge&logo=Sublime-Text&logoColor=white" height="30"> <img src="https://img.shields.io/badge/PrestaShop-DF0067.svg?style=for-the-badge&logo=PrestaShop&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Signal-3B45FD.svg?style=for-the-badge&logo=Signal&logoColor=white" height="30"> 
+
+
+---
+
 ### daily drivers
 
-<img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white" height="30"> <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Hostinger-673DE6.svg?style=for-the-badge&logo=Hostinger&logoColor=white" height="30"> <img src="https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Raycast-FF6363.svg?style=for-the-badge&logo=Raycast&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Warp-01A4FF.svg?style=for-the-badge&logo=Warp&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" height="30"> <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white" height="30"> <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Hostinger-673DE6.svg?style=for-the-badge&logo=Hostinger&logoColor=white" height="30"> <img src="https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Raycast-FF6363.svg?style=for-the-badge&logo=Raycast&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Warp-01A4FF.svg?style=for-the-badge&logo=Warp&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" height="30">
 
 ---
 
 ### i also use
 
-<img src="https://img.shields.io/badge/Anthropic-191919.svg?style=for-the-badge&logo=Anthropic&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Bluesky-0285FF.svg?style=for-the-badge&logo=Bluesky&logoColor=white" height="30"> <img src="https://img.shields.io/badge/LibreOffice-18A303.svg?style=for-the-badge&logo=LibreOffice&logoColor=white" height="30"> <img src="https://img.shields.io/badge/BitTorrent-050505.svg?style=for-the-badge&logo=BitTorrent&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/Anthropic-191919.svg?style=for-the-badge&logo=Anthropic&logoColor=white" height="30"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Pytest-0A9EDC.svg?style=for-the-badge&logo=Pytest&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Bluesky-0285FF.svg?style=for-the-badge&logo=Bluesky&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Homebrew-FBB040.svg?style=for-the-badge&logo=Homebrew&logoColor=black" height="30"> <img src="https://img.shields.io/badge/LibreOffice-18A303.svg?style=for-the-badge&logo=LibreOffice&logoColor=white" height="30"> <img src="https://img.shields.io/badge/BitTorrent-050505.svg?style=for-the-badge&logo=BitTorrent&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" height="30"> <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" height="30">
 
 ---
 
 ### used in the past
 
-<img src="https://img.shields.io/badge/Fedora-51A2DA.svg?style=for-the-badge&logo=Fedora&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=for-the-badge&logo=Apache-Maven&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white" height="30"> <img src="https://img.shields.io/badge/foobar2000-000000.svg?style=for-the-badge&logo=foobar2000&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/Fedora-51A2DA.svg?style=for-the-badge&logo=Fedora&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=for-the-badge&logo=Apache-Maven&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white" height="30"> <img src="https://img.shields.io/badge/foobar2000-000000.svg?style=for-the-badge&logo=foobar2000&logoColor=white" height="30"> <img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51.svg?style=for-the-badge&logo=DaVinci-Resolve&logoColor=white" height="30"> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Pine%20Script-00B453.svg?style=for-the-badge&logo=Pine-Script&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" height="30">
 
 ---
 
@@ -55,55 +62,32 @@
 
 <img src="https://img.shields.io/badge/Blockchain.com-121D33.svg?style=for-the-badge&logo=blockchaindotcom&logoColor=white" height="30"> <img src="https://img.shields.io/badge/TradingView-131622.svg?style=for-the-badge&logo=TradingView&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Binance-F0B90B.svg?style=for-the-badge&logo=Binance&logoColor=black" height="30"> <img src="https://img.shields.io/badge/Bitcoin-F7931A.svg?style=for-the-badge&logo=Bitcoin&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Ethereum-3C3C3D.svg?style=for-the-badge&logo=Ethereum&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Tether-50AF95.svg?style=for-the-badge&logo=Tether&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Solana-9945FF.svg?style=for-the-badge&logo=Solana&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Algorand-000000.svg?style=for-the-badge&logo=Algorand&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Cardano-0133AD.svg?style=for-the-badge&logo=Cardano&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Litecoin-A6A9AA.svg?style=for-the-badge&logo=Litecoin&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Stellar-7D00FF.svg?style=for-the-badge&logo=Stellar&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Sui-4DA2FF.svg?style=for-the-badge&logo=Sui&logoColor=white" height="30">
 
+---
 
+### i learn on
+
+<img src="https://img.shields.io/badge/Udemy-A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Coursera-0056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Wise-9FE870.svg?style=for-the-badge&logo=Wise&logoColor=black" height="30">
+
+---
 <p align="center">
   
-  <img src="https://img.shields.io/badge/Coursera-0056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51.svg?style=for-the-badge&logo=DaVinci-Resolve&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" height="30">
   
-  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Goodreads-372213.svg?style=for-the-badge&logo=Goodreads&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Homebrew-FBB040.svg?style=for-the-badge&logo=Homebrew&logoColor=black" height="30">
+  
+  
   
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/IMDb-F5C518.svg?style=for-the-badge&logo=IMDb&logoColor=black" height="30">
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/JetBrains-000000.svg?style=for-the-badge&logo=JetBrains&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" height="30">
   
-  <img src="https://img.shields.io/badge/Namecheap-DE3723.svg?style=for-the-badge&logo=Namecheap&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Neovim-57A143.svg?style=for-the-badge&logo=Neovim&logoColor=white" height="30">
   
-  <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Pine%20Script-00B453.svg?style=for-the-badge&logo=Pine-Script&logoColor=white" height="30">
 
-  <img src="https://img.shields.io/badge/PrestaShop-DF0067.svg?style=for-the-badge&logo=PrestaShop&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC.svg?style=for-the-badge&logo=Pytest&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" height="30">
-  
-  <img src="https://img.shields.io/badge/Republic%20of%20Gamers-FF0029.svg?style=for-the-badge&logo=Republic-of-Gamers&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Revolut-191C1F.svg?style=for-the-badge&logo=Revolut&logoColor=white" height="30">
-  
-  <img src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Signal-3B45FD.svg?style=for-the-badge&logo=Signal&logoColor=white" height="30">
-  
-  <img src="https://img.shields.io/badge/Sublime%20Text-FF9800.svg?style=for-the-badge&logo=Sublime-Text&logoColor=white" height="30">
-  
-  
-  
-  <img src="https://img.shields.io/badge/Todoist-E44332.svg?style=for-the-badge&logo=Todoist&logoColor=white" height="30">
   
   <img src="https://img.shields.io/badge/Twitch-9146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" height="30">
   
-  <img src="https://img.shields.io/badge/Udemy-A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white" height="30">
+  
   
   <img src="https://img.shields.io/badge/Waze-33CCFF.svg?style=for-the-badge&logo=Waze&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/Wine-800000.svg?style=for-the-badge&logo=Wine&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Wise-9FE870.svg?style=for-the-badge&logo=Wise&logoColor=black" height="30">
+  
   <img src="https://img.shields.io/badge/Zapier-FF4F00.svg?style=for-the-badge&logo=Zapier&logoColor=white" height="30">
   
 </p>
