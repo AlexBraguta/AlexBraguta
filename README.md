@@ -28,9 +28,7 @@
   </tr>
 </table>
 
-[![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBraguta&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<a align="center"><img src="https://github.com/AlexBraguta/AlexBraguta/blob/main/languages.png" width="500"></a>
+<p align="center"><img src="https://github.com/AlexBraguta/AlexBraguta/blob/main/languages.png" width="500"></p>
 
 
 <!-- Add more icons similarly -->
