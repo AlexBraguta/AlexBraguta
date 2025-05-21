@@ -35,7 +35,7 @@
 
 ### i like
 
-<img src="https://img.shields.io/badge/Todoist-E44332.svg?style=for-the-badge&logo=Todoist&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Goodreads-372213.svg?style=for-the-badge&logo=Goodreads&logoColor=white" height="30"> <img src="https://img.shields.io/badge/JetBrains-000000.svg?style=for-the-badge&logo=JetBrains&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Sublime%20Text-FF9800.svg?style=for-the-badge&logo=Sublime-Text&logoColor=white" height="30"> <img src="https://img.shields.io/badge/PrestaShop-DF0067.svg?style=for-the-badge&logo=PrestaShop&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Signal-3B45FD.svg?style=for-the-badge&logo=Signal&logoColor=white" height="30"> 
+<img src="https://img.shields.io/badge/Todoist-E44332.svg?style=for-the-badge&logo=Todoist&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Goodreads-372213.svg?style=for-the-badge&logo=Goodreads&logoColor=white" height="30"> <img src="https://img.shields.io/badge/JetBrains-000000.svg?style=for-the-badge&logo=JetBrains&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Sublime%20Text-FF9800.svg?style=for-the-badge&logo=Sublime-Text&logoColor=white" height="30"> <img src="https://img.shields.io/badge/PrestaShop-DF0067.svg?style=for-the-badge&logo=PrestaShop&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Signal-3B45FD.svg?style=for-the-badge&logo=Signal&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Zapier-FF4F00.svg?style=for-the-badge&logo=Zapier&logoColor=white" height="30">
 
 
 ---
@@ -66,31 +66,10 @@
 
 ### i learn on
 
-<img src="https://img.shields.io/badge/Udemy-A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Coursera-0056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Wise-9FE870.svg?style=for-the-badge&logo=Wise&logoColor=black" height="30">
+<img src="https://img.shields.io/badge/Udemy-A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Coursera-0056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" height="30">
 
 ---
-<p align="center">
-  
-  
-  
-  
-  
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/IMDb-F5C518.svg?style=for-the-badge&logo=IMDb&logoColor=black" height="30">
-  
-  
 
-  
-  <img src="https://img.shields.io/badge/Twitch-9146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" height="30">
-  
-  
-  
-  <img src="https://img.shields.io/badge/Waze-33CCFF.svg?style=for-the-badge&logo=Waze&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Wine-800000.svg?style=for-the-badge&logo=Wine&logoColor=white" height="30">
-  
-  <img src="https://img.shields.io/badge/Zapier-FF4F00.svg?style=for-the-badge&logo=Zapier&logoColor=white" height="30">
-  
-</p>
 
 
 <!-- 
