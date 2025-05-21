@@ -18,18 +18,18 @@
     <td><a href="https://scikit-learn.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="70"/></a></td>
   </tr>
 </table>
-
+---
 ### my setup
 
 <img src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=for-the-badge&logo=Arch-Linux&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Hyprland-58E1FF.svg?style=for-the-badge&logo=Hyprland&logoColor=black" height="30"> <img src="https://img.shields.io/badge/Wayland-FFBC00.svg?style=for-the-badge&logo=Wayland&logoColor=black" height="30"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Firefox-FF7139.svg?style=for-the-badge&logo=Firefox&logoColor=white" height="30"> 
-
+---
 ### i love
 
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" height="30"> <img src="https://img.shields.io/badge/Obsidian-7C3AED.svg?style=for-the-badge&logo=Obsidian&logoColor=white" height="30"> <img src="https://img.shields.io/badge/PlayStation-0070D1.svg?style=for-the-badge&logo=PlayStation&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=Steam&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Stremio-685CEE.svg?style=for-the-badge&logo=Stremio&logoColor=white" height="30">
 
 ### daily drivers
 
-<img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Hostinger-673DE6.svg?style=for-the-badge&logo=Hostinger&logoColor=white" height="30"> <img src="https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Raycast-FF6363.svg?style=for-the-badge&logo=Raycast&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Warp-01A4FF.svg?style=for-the-badge&logo=Warp&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white" height="30"> <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Hostinger-673DE6.svg?style=for-the-badge&logo=Hostinger&logoColor=white" height="30"> <img src="https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Raycast-FF6363.svg?style=for-the-badge&logo=Raycast&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Warp-01A4FF.svg?style=for-the-badge&logo=Warp&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white" height="30">
 
 ### i also use
 
@@ -37,11 +37,11 @@
 
 ### crypto
 
-<img src="https://img.shields.io/badge/Blockchain.com-121D33.svg?style=for-the-badge&logo=blockchaindotcom&logoColor=white" height="30"> <img src="https://img.shields.io/badge/TradingView-131622.svg?style=for-the-badge&logo=TradingView&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Binance-F0B90B.svg?style=for-the-badge&logo=Binance&logoColor=black" height="30"> <img src="https://img.shields.io/badge/Bitcoin-F7931A.svg?style=for-the-badge&logo=Bitcoin&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Ethereum-3C3C3D.svg?style=for-the-badge&logo=Ethereum&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Tether-50AF95.svg?style=for-the-badge&logo=Tether&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/Blockchain.com-121D33.svg?style=for-the-badge&logo=blockchaindotcom&logoColor=white" height="30"> <img src="https://img.shields.io/badge/TradingView-131622.svg?style=for-the-badge&logo=TradingView&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Binance-F0B90B.svg?style=for-the-badge&logo=Binance&logoColor=black" height="30"> <img src="https://img.shields.io/badge/Bitcoin-F7931A.svg?style=for-the-badge&logo=Bitcoin&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Ethereum-3C3C3D.svg?style=for-the-badge&logo=Ethereum&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Tether-50AF95.svg?style=for-the-badge&logo=Tether&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Solana-9945FF.svg?style=for-the-badge&logo=Solana&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Algorand-000000.svg?style=for-the-badge&logo=Algorand&logoColor=white" height="30">
 
 
 <p align="center">
-<img src="https://img.shields.io/badge/Algorand-000000.svg?style=for-the-badge&logo=Algorand&logoColor=white" height="30">
+
   <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=for-the-badge&logo=Amazon-EC2&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white" height="30">
@@ -100,7 +100,7 @@
   <img src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/Signal-3B45FD.svg?style=for-the-badge&logo=Signal&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Solana-9945FF.svg?style=for-the-badge&logo=Solana&logoColor=white" height="30">
+  
   
   <img src="https://img.shields.io/badge/Stellar-7D00FF.svg?style=for-the-badge&logo=Stellar&logoColor=white" height="30">
   
