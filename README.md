@@ -28,7 +28,7 @@
   </tr>
 </table>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexBraguta)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexBraguta&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Add more icons similarly -->
 
