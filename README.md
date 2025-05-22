@@ -16,15 +16,17 @@
   </tr>
 </table>
 
-## my setup
 
-<img src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=for-the-badge&logo=Arch-Linux&logoColor=white" height="35"> <img src="https://img.shields.io/badge/Hyprland-58E1FF.svg?style=for-the-badge&logo=Hyprland&logoColor=black" height="35"> <img src="https://img.shields.io/badge/Wayland-FFBC00.svg?style=for-the-badge&logo=Wayland&logoColor=black" height="35"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white" height="35"> <img src="https://img.shields.io/badge/Firefox-FF7139.svg?style=for-the-badge&logo=Firefox&logoColor=white" height="35"> 
+## i love
+
+<img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" height="35"> <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" height="35"> <img src="https://img.shields.io/badge/Obsidian-7C3AED.svg?style=for-the-badge&logo=Obsidian&logoColor=white" height="35"> <img src="https://img.shields.io/badge/PlayStation-0070D1.svg?style=for-the-badge&logo=PlayStation&logoColor=white" height="35"> <img src="https://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=Steam&logoColor=white" height="35"> <img src="https://img.shields.io/badge/Stremio-685CEE.svg?style=for-the-badge&logo=Stremio&logoColor=white" height="35"> <img src="https://img.shields.io/badge/Goodreads-372213.svg?style=for-the-badge&logo=Goodreads&logoColor=white" height="35">
 
 ---
 
-### i love
+### my setup
 
-<img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" height="30"> <img src="https://img.shields.io/badge/Obsidian-7C3AED.svg?style=for-the-badge&logo=Obsidian&logoColor=white" height="30"> <img src="https://img.shields.io/badge/PlayStation-0070D1.svg?style=for-the-badge&logo=PlayStation&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=Steam&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Stremio-685CEE.svg?style=for-the-badge&logo=Stremio&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Goodreads-372213.svg?style=for-the-badge&logo=Goodreads&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=for-the-badge&logo=Arch-Linux&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Hyprland-58E1FF.svg?style=for-the-badge&logo=Hyprland&logoColor=black" height="30"> <img src="https://img.shields.io/badge/Wayland-FFBC00.svg?style=for-the-badge&logo=Wayland&logoColor=black" height="30"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Firefox-FF7139.svg?style=for-the-badge&logo=Firefox&logoColor=white" height="30"> 
+
 
 ---
 
