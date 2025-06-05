@@ -1,6 +1,6 @@
-<p align="center"><img src="https://github.com/AlexBraguta/AlexBraguta/blob/main/languages.png">
+<p align="center"><img src="https://github.com/AlexBraguta/AlexBraguta/blob/main/languages.png"></p>
 ## i work with
-<table>
+<p align="center"><table>
   <tr>
     <td><a href="https://archlinux.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="70"/></a></td>
     <td><a href="https://kernel.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="70"/></a></td>
