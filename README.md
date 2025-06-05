@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/AlexBraguta/AlexBraguta/blob/main/languages.png"></p>
+<p align="center"><img src="https://github.com/AlexBraguta/AlexBraguta/blob/main/languages2.png"></p>
 
 ## i work with
 <table>
