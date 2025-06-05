@@ -7,7 +7,6 @@
     <td><a href="https://kernel.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="70"/></a></td>
     <td><a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="70"/></a></td>
     <td><a href="https://python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="70"/></a></td>
-    <td><a href="https://www.jetbrains.com/pycharm/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="70"/></a></td>
     <td><a href="https://www.java.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="70"/></a></td>
     <td><a href="https://www.docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="70"/></a></td>
     <td><a href="https://streamlit.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="70"/></a></td>
@@ -18,7 +17,7 @@
 
 ### my setup:
 
-<img src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=for-the-badge&logo=Arch-Linux&logoColor=white" height="35"> <img src="https://img.shields.io/badge/Hyprland-58E1FF.svg?style=for-the-badge&logo=Hyprland&logoColor=black" height="35"> <img src="https://img.shields.io/badge/Wayland-FFBC00.svg?style=for-the-badge&logo=Wayland&logoColor=black" height="35"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white" height="35"> <img src="https://img.shields.io/badge/Firefox-FF7139.svg?style=for-the-badge&logo=Firefox&logoColor=white" height="35"> 
+<img src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=for-the-badge&logo=Arch-Linux&logoColor=white" height="35"> <img src="https://img.shields.io/badge/Hyprland-58E1FF.svg?style=for-the-badge&logo=Hyprland&logoColor=black" height="35"> 
 
 
 ### i love:
