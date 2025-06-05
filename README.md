@@ -1,5 +1,4 @@
-<p align="center"><img src="https://github.com/AlexBraguta/AlexBraguta/blob/main/languages.png"></p>
-
+<p align="center"><img src="https://github.com/AlexBraguta/AlexBraguta/blob/main/languages.png">
 ## i work with
 <table>
   <tr>
@@ -12,7 +11,8 @@
     <td><a href="https://pandas.pydata.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="70"/></a></td>
     <td><a href="https://scikit-learn.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="70"/></a></td>
   </tr>
-</table>
+</table></p>
+
 
 ### my setup:
 
