@@ -35,7 +35,7 @@ i also use:
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Hostinger-673DE6.svg?style=for-the-badge&logo=Hostinger&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Raycast-FF6363.svg?style=for-the-badge&logo=Raycast&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Warp-01A4FF.svg?style=for-the-badge&logo=Warp&logoColor=white" height="20"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Pytest-0A9EDC.svg?style=for-the-badge&logo=Pytest&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Homebrew-FBB040.svg?style=for-the-badge&logo=Homebrew&logoColor=black" height="20"> <img src="https://img.shields.io/badge/LibreOffice-18A303.svg?style=for-the-badge&logo=LibreOffice&logoColor=white" height="20"> 
 
 
-
+![Alex's stats](https://github-readme-stats.vercel.app/api?username=AlexBraguta&show_icons=true&theme=tokyonight)
 
 <!-- 
 
