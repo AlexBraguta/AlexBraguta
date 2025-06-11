@@ -1,9 +1,7 @@
 ![Alex's stats](https://github-readme-stats.vercel.app/api?username=AlexBraguta&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBraguta&show_icons=true&theme=tokyonight)
 
+#<p align="center"><img src="https://github.com/AlexBraguta/AlexBraguta/blob/main/languages.png"></p>
 
-<p align="center"><img src="https://github.com/AlexBraguta/AlexBraguta/blob/main/languages.png"></p>
-
-## i work with
 <table>
   <tr align="center">
     <td><a href="https://archlinux.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="70"/></a></td>
@@ -17,21 +15,17 @@
   </tr>
 </table>
 
-
-### my setup:
+my setup:
 
 <img src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=for-the-badge&logo=Arch-Linux&logoColor=white" height="35"> <img src="https://img.shields.io/badge/Hyprland-58E1FF.svg?style=for-the-badge&logo=Hyprland&logoColor=black" height="35"> 
 
-
-### i love:
+i love:
 
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" height="30"> <img src="https://img.shields.io/badge/Obsidian-7C3AED.svg?style=for-the-badge&logo=Obsidian&logoColor=white" height="30"> <img src="https://img.shields.io/badge/PlayStation-0070D1.svg?style=for-the-badge&logo=PlayStation&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=Steam&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Stremio-685CEE.svg?style=for-the-badge&logo=Stremio&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Goodreads-372213.svg?style=for-the-badge&logo=Goodreads&logoColor=white" height="30">
 
-
-#### i like:
+i like:
 
 <img src="https://img.shields.io/badge/Bluesky-0285FF.svg?style=for-the-badge&logo=Bluesky&logoColor=white" height="25"> <img src="https://img.shields.io/badge/Todoist-E44332.svg?style=for-the-badge&logo=Todoist&logoColor=white" height="25"> <img src="https://img.shields.io/badge/JetBrains-000000.svg?style=for-the-badge&logo=JetBrains&logoColor=white" height="25"> <img src="https://img.shields.io/badge/Sublime%20Text-FF9800.svg?style=for-the-badge&logo=Sublime-Text&logoColor=white" height="25"> <img src="https://img.shields.io/badge/PrestaShop-DF0067.svg?style=for-the-badge&logo=PrestaShop&logoColor=white" height="25"> <img src="https://img.shields.io/badge/Signal-3B45FD.svg?style=for-the-badge&logo=Signal&logoColor=white" height="25"> <img src="https://img.shields.io/badge/Zapier-FF4F00.svg?style=for-the-badge&logo=Zapier&logoColor=white" height="25">
-
 
 i also use:
 
