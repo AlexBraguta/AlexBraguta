@@ -1,4 +1,4 @@
-![Alex's stats](https://github-readme-stats.vercel.app/api?username=AlexBraguta&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBraguta&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBraguta&show_icons=true&theme=tokyonight) ![Alex's stats](https://github-readme-stats.vercel.app/api?username=AlexBraguta&show_icons=true&theme=tokyonight) 
 
 <!-- <p align="center"><img src="https://github.com/AlexBraguta/AlexBraguta/blob/main/languages.png"></p> -->
 
