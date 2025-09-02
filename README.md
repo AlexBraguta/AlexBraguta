@@ -25,7 +25,7 @@ i love:
 
 i like:
 
-<img src="https://img.shields.io/badge/Bluesky-0285FF.svg?style=for-the-badge&logo=Bluesky&logoColor=white" height="25"> <img src="https://img.shields.io/badge/Todoist-E44332.svg?style=for-the-badge&logo=Todoist&logoColor=white" height="25"> <img src="https://img.shields.io/badge/JetBrains-000000.svg?style=for-the-badge&logo=JetBrains&logoColor=white" height="25"> <img src="https://img.shields.io/badge/Sublime%20Text-FF9800.svg?style=for-the-badge&logo=Sublime-Text&logoColor=white" height="25"> <img src="https://img.shields.io/badge/PrestaShop-DF0067.svg?style=for-the-badge&logo=PrestaShop&logoColor=white" height="25"> <img src="https://img.shields.io/badge/Signal-3B45FD.svg?style=for-the-badge&logo=Signal&logoColor=white" height="25"> <img src="https://img.shields.io/badge/Zapier-FF4F00.svg?style=for-the-badge&logo=Zapier&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Bluesky-0285FF.svg?style=for-the-badge&logo=Bluesky&logoColor=white" height="25"> <img src="https://img.shields.io/badge/Todoist-E44332.svg?style=for-the-badge&logo=Todoist&logoColor=white" height="25"> <img src="https://img.shields.io/badge/JetBrains-000000.svg?style=for-the-badge&logo=JetBrains&logoColor=white" height="25"> <img src="https://img.shields.io/badge/PrestaShop-DF0067.svg?style=for-the-badge&logo=PrestaShop&logoColor=white" height="25"> <img src="https://img.shields.io/badge/Zapier-FF4F00.svg?style=for-the-badge&logo=Zapier&logoColor=white" height="25">
 
 i also use:
 
