@@ -1,7 +1,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBraguta&show_icons=true&theme=transparent) ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AlexBraguta&theme=transparent)
 ![Profile Trophies](https://github-profile-trophy.vercel.app/?username=AlexBraguta&theme=transparent) 
 
-[![Sashboard Repo](https://github-readme-stats.vercel.app/api/pin/?username=AlexBraguta&repo=github-readme-stats)](https://github.com/AlexBraguta/sashboard)
+![Sashboard Repo](https://github-readme-stats.vercel.app/api/pin/?username=AlexBraguta&repo=sashboard)
 <!-- ![Alex's stats](https://github-readme-stats.vercel.app/api?username=AlexBraguta&show_icons=true&theme=tokyonight) -->
 
 <!-- <p align="center"><img src="https://github.com/AlexBraguta/AlexBraguta/blob/main/languages.png"></p> -->
