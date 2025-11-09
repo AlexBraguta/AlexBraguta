@@ -1,5 +1,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBraguta&show_icons=true&theme=transparent) 
-
+![Profile Trophies](https://github-profile-trophy.vercel.app/?username=AlexBraguta&theme=transparent)
 <!-- ![Alex's stats](https://github-readme-stats.vercel.app/api?username=AlexBraguta&show_icons=true&theme=tokyonight) -->
 
 <!-- <p align="center"><img src="https://github.com/AlexBraguta/AlexBraguta/blob/main/languages.png"></p> -->
