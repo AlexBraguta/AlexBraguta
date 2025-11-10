@@ -10,11 +10,7 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlexBraguta&theme=nord&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlexBraguta&theme=dark_dimmed&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlexBraguta&theme=nord&column=9)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
