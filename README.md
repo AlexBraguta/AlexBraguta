@@ -9,11 +9,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBraguta&show_icons=true&theme=transparent) ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AlexBraguta&theme=transparent)
 
 ---
+
 <p align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AlexBraguta&theme=nord&rank=-C,-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 </p>
+
 ---
 
 <table>
