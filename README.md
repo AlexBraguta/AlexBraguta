@@ -14,7 +14,7 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlexBraguta)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlexBraguta&theme=dark_dimmed&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
