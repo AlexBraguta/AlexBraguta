@@ -13,7 +13,9 @@
 <table>
   <tr align="center">
     <td>
+      
       [![trophy](https://github-profile-trophy.vercel.app/?username=AlexBraguta&theme=nord&rank=-C,-?)](https://github.com/ryo-ma/github-profile-trophy)
+      
     </td>
   </tr>
 </table>
