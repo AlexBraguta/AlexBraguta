@@ -5,6 +5,7 @@
 <!-- ![Alex's stats](https://github-readme-stats.vercel.app/api?username=AlexBraguta&show_icons=true&theme=tokyonight) -->
 
 <!-- <p align="center"><img src="https://github.com/AlexBraguta/AlexBraguta/blob/main/languages.png"></p> -->
+![Coding](coding.gif)
 
 <table>
   <tr align="center">
