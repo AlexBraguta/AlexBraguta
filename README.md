@@ -6,12 +6,6 @@
 <!-- <p align="center"><img src="https://github.com/AlexBraguta/AlexBraguta/blob/main/languages.png"></p> -->
 ![Coding](coding.gif)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBraguta&show_icons=true&theme=transparent) ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AlexBraguta&theme=transparent)
-
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlexBraguta&theme=nord&rank=-C,-?)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 <table>
