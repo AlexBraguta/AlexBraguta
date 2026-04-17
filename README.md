@@ -8,7 +8,7 @@ Data Scientist · Claude Architect
 
 [![Website](https://img.shields.io/badge/alex.braguta.com-000000?style=flat&logo=About.me&logoColor=white)](https://alex.braguta.com)
 [![Email](https://img.shields.io/badge/alex@braguta.com-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:alex@braguta.com)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat&logo=Bluesky&logoColor=white)](https://bsky.app/)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat&logo=Bluesky&logoColor=white)](https://san.ceo/bluesky)
 
 </div>
 
@@ -41,7 +41,7 @@ Data Scientist · Claude Architect
 
 ## Certifications
 
-[![Google AI](https://img.shields.io/badge/Google_AI_Essentials-4285F4?style=flat&logo=Google&logoColor=white)](https://alex.braguta.com/certificates/google-ai.pdf)
+[![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=flat&logo=Google&logoColor=white)](https://alex.braguta.com/certificates/google-ai.pdf)
 [![Google Data Analytics](https://img.shields.io/badge/Google_Data_Analytics-4285F4?style=flat&logo=Google&logoColor=white)](https://alex.braguta.com/certificates/google-data-analytics.pdf)
 [![IBM Agentic AI](https://img.shields.io/badge/IBM_Agentic_AI-052FAD?style=flat&logo=IBM&logoColor=white)](https://alex.braguta.com/certificates/ibm-agentic-ai.pdf)
 
