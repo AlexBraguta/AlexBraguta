@@ -42,8 +42,8 @@ Data Scientist · Claude Architect
 ## Certifications
 
 [![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=flat&logo=Google&logoColor=white)](https://alex.braguta.com/certificates/google-ai.pdf)
-[![Google Data Analytics](https://img.shields.io/badge/Google_Data_Analytics-4285F4?style=flat&logo=Google&logoColor=white)](https://alex.braguta.com/certificates/google-data-analytics.pdf)
 [![IBM Agentic AI](https://img.shields.io/badge/IBM_Agentic_AI-052FAD?style=flat&logo=IBM&logoColor=white)](https://alex.braguta.com/certificates/ibm-agentic-ai.pdf)
+[![Google Data Analytics](https://img.shields.io/badge/Google_Data_Analytics-4285F4?style=flat&logo=Google&logoColor=white)](https://alex.braguta.com/certificates/google-data-analytics.pdf)
 
 ---
 
