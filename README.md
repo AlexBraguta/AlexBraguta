@@ -1,19 +1,12 @@
-<!-- ![Profile Trophies](https://github-profile-trophy.vercel.app/?username=AlexBraguta&theme=transparent) -->
-
-<!-- ![Sashboard Repo](https://github-readme-stats.vercel.app/api/pin/?username=AlexBraguta&repo=sashboard&theme=transparent) -->
-<!-- ![Alex's stats](https://github-readme-stats.vercel.app/api?username=AlexBraguta&show_icons=true&theme=tokyonight) -->
-
-<!-- <p align="center"><img src="https://github.com/AlexBraguta/AlexBraguta/blob/main/languages.png"></p> -->
-
 <div align="center">
 
 <img src="coding.gif" width="500"/>
 
-# Alex Braguta
-
 Data Scientist · Claude Architect
 
-[alex.braguta.com](https://alex.braguta.com) · [alex@braguta.com](mailto:alex@braguta.com)
+[![Website](https://img.shields.io/badge/alex.braguta.com-000000?style=flat&logo=About.me&logoColor=white)](https://alex.braguta.com)
+[![Email](https://img.shields.io/badge/alex@braguta.com-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:alex@braguta.com)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat&logo=Bluesky&logoColor=white)](https://bsky.app/)
 
 </div>
 
@@ -32,19 +25,23 @@ Data Scientist · Claude Architect
 
 ## Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=Arch-Linux&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNU-Bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=Arch-Linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=GNU-Bash&logoColor=white)
+![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=flat&logo=JetBrains&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=Obsidian&logoColor=white)
 
 ---
 
 ## Certifications
 
-[alex.braguta.com/certificates](https://alex.braguta.com/certificates/)
+[Google AI Essentials](https://img.shields.io/badge/Google_AI_Essentials-4285F4?style=flat&logo=Google&logoColor=white)](https://alex.braguta.com/certificates/google-ai.pdf)
+[![Google Data Analytics](https://img.shields.io/badge/Google_Data_Analytics-4285F4?style=flat&logo=Google&logoColor=white)](https://alex.braguta.com/certificates/google-data-analytics.pdf)
+[![IBM Agentic AI](https://img.shields.io/badge/IBM_Agentic_AI-052FAD?style=flat&logo=IBM&logoColor=white)](https://alex.braguta.com/certificates/ibm-agentic-ai.pdf)
 
 ---
 
@@ -52,20 +49,3 @@ Data Scientist · Claude Architect
   <img src="https://github-readme-stats.vercel.app/api?username=AlexBraguta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBraguta&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
-
-
-<!-- <table>
-  <tr align="center">
-    <td><a href="https://archlinux.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="70"/></a></td>
-    <td><a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="70"/></a></td>
-    <td><a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="70"/></a></td>
-    <td><a href="https://python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="70"/></a></td>
-    <td><a href="https://www.docker.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="70"/></a></td>
-    <td><a href="https://streamlit.io" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="70"/></a></td>
-    <td><a href="https://pandas.pydata.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="70"/></a></td>
-    <td><a href="https://scikit-learn.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="70"/></a></td>
-  </tr>
-</table>
-
-<a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" height="30"></a> <a href="https://python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" height="30"></a> <a href="https://obsidian.md/" target="_blank"><img src="https://img.shields.io/badge/Obsidian-7C3AED.svg?style=for-the-badge&logo=Obsidian&logoColor=white" height="30"></a> <a href="https://www.jetbrains.com/" target="_blank"><img src="https://img.shields.io/badge/JetBrains-000000.svg?style=for-the-badge&logo=JetBrains&logoColor=white" height="30"></a> <a href="https://www.goodreads.com/" target="_blank"><img src="https://img.shields.io/badge/Goodreads-372213.svg?style=for-the-badge&logo=Goodreads&logoColor=white" height="30"></a> <a href="https://bsky.app/" target="_blank"><img src="https://img.shields.io/badge/Bluesky-0285FF.svg?style=for-the-badge&logo=Bluesky&logoColor=white" height="30"></a> <a href="https://www.todoist.com/" target="_blank"><img src="https://img.shields.io/badge/Todoist-E44332.svg?style=for-the-badge&logo=Todoist&logoColor=white" height="30"></a>
--->
