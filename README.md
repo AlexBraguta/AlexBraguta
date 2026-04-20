@@ -19,6 +19,7 @@ Data Scientist · Claude Architect
 | | |
 |---|---|
 | [windrose-server](https://github.com/AlexBraguta/windrose-server) | Windrose dedicated server on Linux via Docker |
+| [Dashboard](https://github.com/AlexBraguta/dashboard) | Personal dashboard for use on your linux server |
 | [ML-prediction](https://github.com/AlexBraguta/ML-prediction) | BTC/USDT directional forecasting |
 | [pnl-widget](https://github.com/AlexBraguta/pnl-widget) | Daily P&L display widget |
 | [dotfiles](https://github.com/AlexBraguta/dotfiles) | Hyprland configuration |
