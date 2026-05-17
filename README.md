@@ -5,6 +5,7 @@
 ---
 
 Data Scientist · Claude Architect
+
 [![Website](https://img.shields.io/badge/alex.braguta.com-000000?style=flat&logo=About.me&logoColor=white)](https://alex.braguta.com)
 [![Email](https://img.shields.io/badge/alex@braguta.com-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:alex@braguta.com)
 </div>
